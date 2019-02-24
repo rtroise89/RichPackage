@@ -1,11 +1,12 @@
-\name{Rich_stdDev}
-\alias{Rich_stdDev}
+\name{Rich_StdDev}
+\alias{Rich_StdDev}
 \title{Pop. Standard Deviation}
-\description{Calculate std. deviation of a population}
-\usage{Rich_stdDev(x)}
+\description{Calculate standard deviation of a population}
+\usage{Rich_StdDev(vector)}
 
 
 \examples{
-Rich_StdDev(x)
+a <- c(1,2,3,4,5,6)
+Rich_StdDev(a)
 }
 
