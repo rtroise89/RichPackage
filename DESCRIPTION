@@ -5,7 +5,8 @@ Version: 0.1.1
 Author: Richard Troise
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: 
-    Hello function prints a friendly message, Rich_StdDev function calculates standar deviation of a population
+    Hello function prints a friendly message, Rich_StdDev function calculates standard deviation of a population
+    Rich_Variance calculates the variance of a population
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
