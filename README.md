@@ -15,6 +15,9 @@ Type in console
 ```
  library(RichPackage)
 ```
+
+You now have access to my package functions. For example:
 ```
-You now have access to package functions. Enjoy.
+ a <- c(1,2,3,4,5)
+ Rich_StdDev(a)
 ```
