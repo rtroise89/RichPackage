@@ -9,7 +9,7 @@ Type in console
 ```
 Type in console
 ```
- install.github("rtroise89/RichPackage")
+ install_github("rtroise89/RichPackage")
 ```
 Type in console
 ```
